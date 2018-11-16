@@ -1,3 +1,7 @@
+# And this my friends, is a build badge
+
+[![Build Status](https://dev.azure.com/krishermans/pipelines-dotnet-core/_apis/build/status/pipelines-dotnet-core-CI)](https://dev.azure.com/krishermans/pipelines-dotnet-core/_build/latest?definitionId=3)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
